@@ -13,7 +13,6 @@ This assistant is more than a chatbot. It’s a multi-functional digital partner
 - 📅 **Create and retrieve calendar events** using Google Calendar
 - 🧠 **Generate intelligent responses** using OpenAI or Gemini
 
----
 
 ## 🧠 How It Works
 
@@ -28,7 +27,6 @@ This assistant is more than a chatbot. It’s a multi-functional digital partner
 - Web search node fetches real-time info
 - **Response**: All outputs are sent back to Telegram in real time
 
----
 
 ## 📦 Use Cases
 
@@ -40,7 +38,6 @@ This assistant is more than a chatbot. It’s a multi-functional digital partner
 - Image-based task triggers
 - Arithmetic and logic-based decision flows
 
----
 
 ## 📸 Screenshots
 
