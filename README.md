@@ -42,5 +42,5 @@ This assistant is more than a chatbot. It’s a multi-functional digital partner
 ## 📸 Screenshots
 
 > ![Workflow](TelegramAssis.PNG)
-> ![Telegram](TelAssis.PNG)
+> ![Telegram](TelAss.PNG)
 > ![Telegram](Tassistant.PNG)
