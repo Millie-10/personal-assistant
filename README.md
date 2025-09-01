@@ -1,4 +1,4 @@
-# personal-assistant
+# telegram-personal-assistant
 A smart personal assistant built with n8n. It responds to audio, texts and analyzes images.
 
 ## 🚀 What It Can Do
@@ -41,4 +41,6 @@ This assistant is more than a chatbot. It’s a multi-functional digital partner
 
 ## 📸 Screenshots
 
-> *(Add visuals of your workflow editor, Telegram interactions, or execution logs here)*
+> ![Workflow](TelegramAssis.png)
+> ![Telegram](TelAssis.png)
+> ![Telegram](Tassistant.png)
